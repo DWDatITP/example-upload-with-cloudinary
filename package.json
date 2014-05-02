@@ -1,13 +1,11 @@
 {
   "name": "cloudinary-upload-example",
   "version": "0.0.0",
-  "description": "",
+  "description": "An example app showing how to use cloudinary to upload images",
   "main": "index.js",
   "dependencies": {
     "cloudinary": "^1.0.9",
     "express": "^4.1.1",
-    "mongodb": "~1.4.3",
-    "mongoose": "~3.8.8",
     "express3-handlebars": "^0.5.0",
     "body-parser": "^1.0.2",
     "connect-multiparty": "^1.0.3"
@@ -16,6 +14,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cory Forsyth",
   "license": "ISC"
 }
