@@ -3,9 +3,9 @@
 /* After you create an account at cloudinary.com, fill in the
  * values below with your credentials. */
 var cloudinaryCredentials = {
-  cloud_name: 'bantic',
-  api_key:    '468284239147491',
-  api_secret: 'NuAM8f5fsWhw-CWSBUuBDrkmgpU'
+  cloud_name: 'YOUR-CLOUD-NAME',
+  api_key:    'YOUR-API-KEY',
+  api_secret: 'YOUR-API-SECRET'
 };
 
 ///////////////////////////////////
